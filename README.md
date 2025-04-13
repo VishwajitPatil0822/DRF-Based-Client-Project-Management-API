@@ -122,6 +122,17 @@ With the use of Django for backend development and a reliable MySQL database for
                   python manage.py runserver  
 
 
+## 📬 Contact
 
+If you have any questions, suggestions, or want to collaborate, feel free to reach out:
 
+- 💌 Email: [vishwajit22patil@gmail.com](mailto:vishwajit22patil@gmail.com)
 
+- 🐙 GitHub: [github.com/VishwajitPatil0822](https://github.com/VishwajitPatil0822)
+
+- 💼 LinkedIn: [linkedin.com/in/vishwajitpatil-pythondev](https://www.linkedin.com/in/vishwajitpatil-pythondev/)
+ 
+
+## ❤️ Support
+
+If you like this project, give it a ⭐ on [GitHub](https://github.com/VishwajitPatil0822/Online-Python-Compiler)!  
