@@ -138,10 +138,3 @@ If you like this project, give it a ⭐ on [GitHub](https://github.com/Vishwajit
 
 ### Created with ❤️ by Vishwajit Patil
 
-
-<p>
-  <a href="https://www.linkedin.com/in/vishwajitpatil-pythondev/"><img src="https://img.shields.io/badge/-vishwajitpatil-pythondev-blue?style=flat-square&logo=inspire&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/dewith"><img src="https://img.shields.io/badge/-@VishwajitPatil0822?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="mailto:dewithmiramon@gmail.com"><img src="https://img.shields.io/badge/-vishwajit22patil@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
