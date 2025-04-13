@@ -137,3 +137,13 @@ If you like this project, give it a ⭐ on [GitHub](https://github.com/Vishwajit
 
 
 ### Created with ❤️ by Vishwajit Patil
+
+
+<p>
+  <a href="https://dewith.co"><img src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=appveyor" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/dewithmiramon/"><img src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/DewithMiramon"><img src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter" alt="Twitter"></a>
+  <a href="mailto:dewithmiramon@gmail.com"><img src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/dewith"><img src="https://img.shields.io/badge/-@dewith-black?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
+
